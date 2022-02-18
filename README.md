@@ -2,7 +2,7 @@
 
 This project aims at converting any text into morse code . This code can then be flashed using the built in flashlight of smartphones.
 
-Created using Flutter
+
 
 ## Getting Started
 
