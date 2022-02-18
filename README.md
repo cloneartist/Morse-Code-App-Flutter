@@ -1,10 +1,8 @@
-# morse_light
+# Morse Code To FlashLight 
 
-A new Flutter project.
+This project aims at converting any text into morse code . This code can then be flashed using the built in flashlight of smartphones
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
